@@ -6,7 +6,7 @@ import seaborn as sns
 import joblib
 
 # Titre de l'application
-st.title("Projet Yshop - Prédiction des ventes")
+st.title("Predi Store - Prédiction des ventes")
 
 # Chargement des données
 @st.cache_data
