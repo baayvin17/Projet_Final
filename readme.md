@@ -31,7 +31,7 @@ Créer une **application interactive** en Python permettant :
 └── README.md # Présentation du projet
 
 
----
+---   
 
 ## 🧪 Fonctionnalités
 
@@ -60,3 +60,4 @@ Assurez-vous d’avoir Python 3 installé, puis :
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn streamlit joblib
+     
